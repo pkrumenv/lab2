@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Lab 2: 
+Transform the personal page created in Lab 1 into a web app using Ruby on Rails
 
-Things you may want to cover:
 
-* Ruby version
+**Details:
 
-* System dependencies
+- Ruby version: 4.0.4
 
-* Configuration
+- Ruby on Rails: version 8.1.3
 
-* Database creation
+- Database: PostgreSQL
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
